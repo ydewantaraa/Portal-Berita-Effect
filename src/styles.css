@@ -1,0 +1,18 @@
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.searchInput {
+  margin-bottom: 20px;
+}
+
+.newsItem {
+  margin-bottom: 20px;
+}
+.newsItem img {
+  max-width: 100%;
+  height: auto;
+}
